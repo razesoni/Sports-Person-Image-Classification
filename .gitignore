@@ -2,4 +2,4 @@ dataset/*
 .ipynb_checkpoints
 .virtual_documments
 anaconda_projects
-opencv/haarcascades
+opencv/haarcascades/*
