@@ -1,4 +1,9 @@
-dataset/*
+dataset/cropped/*
+dataset/lionel_messi/*
+dataset/maria_sharapova/*
+dataset/roger_federer/*
+dataset/serena_williams/*
+dataset/virat_kohli/*
 .ipynb_checkpoints
 .virtual_documments
 anaconda_projects
